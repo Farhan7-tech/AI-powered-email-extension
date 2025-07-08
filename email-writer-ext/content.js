@@ -1,4 +1,4 @@
-console.log("Email Writer Extension - Content Script Loaded");
+console.log("Email Writer Extension - Content Script Loaded succesfully");
 
 function createAIButton() {
   const wrapper = document.createElement("div");
